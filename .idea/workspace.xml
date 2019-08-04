@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d7bb54a-cb17-4936-9544-4ff1f37c6d78" name="Default Changelist" comment="" />
+    <list default="true" id="9d7bb54a-cb17-4936-9544-4ff1f37c6d78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Ohf2Am1FPynYEzsmLy0iJfMEv5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -39,9 +47,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestLand">
-    <configuration name="IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalstatements.IfStatement" />
+  <component name="RunManager" selected="Application.ForLoop">
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalstatements.ForLoop" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
@@ -53,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="othersMentoring.Practice1" />
+    <configuration name="IfElseStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalstatements.IfElseStatements" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="othersMentoring.*" />
+          <option name="PATTERN" value="conditionalstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor.TestHouse" />
-      <module name="PntClass_July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestLand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="statickeyword.TestLand" />
       <module name="PntClass_July2019" />
@@ -118,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditionalstatements.WhileLoop" />
+      <module name="PntClass_July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="conditionalstatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.IfElseStatements" />
         <item itemvalue="Application.TestLand" />
         <item itemvalue="Application.TestDriveWay" />
-        <item itemvalue="Application.TestHouse" />
-        <item itemvalue="Application.IfStatement" />
-        <item itemvalue="Application.Practice1" />
       </list>
     </recent_temporary>
   </component>
@@ -140,5 +148,16 @@
       <updated>1564321943725</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
