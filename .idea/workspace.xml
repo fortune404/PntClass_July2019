@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7bb54a-cb17-4936-9544-4ff1f37c6d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PntClass_July2019/mymentoring/Practice1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PntClass_July2019/mymentoring/Practice1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PntClass_July2019/statickeyword/Land.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PntClass_July2019/statickeyword/Land.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PntClass_July2019/statickeyword/TestLand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PntClass_July2019/statickeyword/TestLand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mymentoring/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mymentoring/Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statickeyword/Land.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statickeyword/Land.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/statickeyword/TestLand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statickeyword/TestLand.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +33,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -47,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForLoop">
+  <component name="RunManager" selected="Application.TestLand">
     <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditionalstatements.ForLoop" />
       <module name="PntClass_July2019" />
@@ -128,10 +133,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestLand" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.IfElseStatements" />
-        <item itemvalue="Application.TestLand" />
         <item itemvalue="Application.TestDriveWay" />
       </list>
     </recent_temporary>
@@ -154,7 +159,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
