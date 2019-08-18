@@ -4,11 +4,7 @@
     <list default="true" id="9d7bb54a-cb17-4936-9544-4ff1f37c6d78" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PntClass_July2019/mymentoring/Practice1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PntClass_July2019/mymentoring/Practice1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PntClass_July2019/statickeyword/Land.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PntClass_July2019/statickeyword/Land.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PntClass_July2019/statickeyword/TestLand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PntClass_July2019/statickeyword/TestLand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mymentoring/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mymentoring/Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statickeyword/Land.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statickeyword/Land.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statickeyword/TestLand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statickeyword/TestLand.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestLand">
+  <component name="RunManager" selected="Application.StudentDatabase">
     <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditionalstatements.ForLoop" />
       <module name="PntClass_July2019" />
@@ -66,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalstatements.IfElseStatements" />
+    <configuration name="StudentDatabase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulation.StudentDatabase" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalstatements.*" />
+          <option name="PATTERN" value="encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,25 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mymentoring.Practice1" />
+    <configuration name="TestCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstraction.TestCar" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mymentoring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDriveWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="statickeyword.TestDriveWay" />
-      <module name="PntClass_July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="statickeyword.*" />
+          <option name="PATTERN" value="abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditionalstatements.WhileLoop" />
+    <configuration name="TestPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstraction.TestPhone" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditionalstatements.*" />
+          <option name="PATTERN" value="abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentDatabase" />
+        <item itemvalue="Application.TestPhone" />
+        <item itemvalue="Application.TestCar" />
         <item itemvalue="Application.TestLand" />
         <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.IfElseStatements" />
-        <item itemvalue="Application.TestDriveWay" />
       </list>
     </recent_temporary>
   </component>
