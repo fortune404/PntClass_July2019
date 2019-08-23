@@ -2,64 +2,126 @@ package mymentoring;
 
 public class Practice1
 {
-
-    String name;
-
-
-
     public static void main(String[] args)
     {
-        //primitive data types                  //single line notes
+            // DATA TYPES
+        /*
+            Primitive data types: byte, short, int, long, float, double, boolean, char.
+            -Integer types: byte, short, int, long
+            -Floating point types: float, double
+            -boolean type = boolean
+            -character type: char
 
-        /* this is our mentoring class
-        hello                                   //multiple line notes
-        students
+            Non-primitive data types: String, classes, interface, arrays, enum etc
          */
 
+//        System.out.println(Byte.MAX_VALUE);
+//        System.out.println(Byte.MIN_VALUE);
+//        System.out.println(Short.MAX_VALUE);
+//        System.out.println(Short.MIN_VALUE);
 
-        String name = "Abidur Rahman";               //field or variable
+        byte num1 = 12;
+        short num2 = 20000;
+        int num3 = 100;
+        long num4 = 237775433;
+        float num5 = 40.25f;
+        double num6 = 20.30;
+        boolean isTrue = num1 == num2;
+        char character = '$';
 
-        //type variable = value
+//        // unicode:
+//        char unicode = '\u2615';
+//
+//        char uni2 = '\u0377';
+//
+//        String name = "Jackie";
 
-        int age = 20;
+
+//        System.out.println(num1);
+//        System.out.println(num2);
+//        System.out.println(isTrue);
+//        System.out.println(character);
+//        System.out.println(name);
+//        System.out.println(unicode);
+//        System.out.println(uni2);
+
+                //operators
+        //Arithmetic operators
+
+        int add = num1 + num2;
+        int subtract = 10 - 8;
+        double multiply = 9 * 10;
+        int divide = 30 / 2;
+        int modulus = 20 % 3;
+        int increment = 20;
+        increment++;
+        //System.out.println(increment);
+        int decrement = 30;
+
+        --decrement;
+        //System.out.println(decrement);
+
+        //Assignment operators
+
+        int x = 10;
+        x %= 3;
+        //System.out.println(x);
 
 
-        System.out.println(name);
-        System.out.println(age);
-        System.out.println("");
+        //Comparison Operators
+        boolean equalTo = 20 == 20;
+        boolean notEqual = 30 != 30;
+        boolean lessThan = 20 < 100;
+        boolean greaterThan = 50 > 25;
+        boolean lessThanOrEqual = 75 <= 75;
+        boolean greaterThanOrEqual = 100 >= 50;
 
-        //kidNames  = camelCase
+//        System.out.println(equalTo);
+//        System.out.println(notEqual);
+//        System.out.println(lessThan);
+//        System.out.println(greaterThan);
+//        System.out.println(lessThanOrEqual);
+//        System.out.println(greaterThanOrEqual);
 
-        //Practice = pascal case
-
-        //--------------------------------------------------------------------------------------------------------------
-
-        //          -----------------AUG 7th 2019---------------------
-
-        //modifiers or specifiers
-
-        //Two types of them:-
-
-            // Access modifiers:
-        //  ------------------->  default, public, private, protected
+        //Logical Operators
 
         /*
-            Default: no modifiers needed. only visible to the package.
-
-            public: is visible to the global.
-
-            private: visible to the class only.
-
-            protected:  visible to the package and subclass.
+        TT = T
+        FT = F
+        TF = F
+        FF = F
          */
 
+//        System.out.println(20 > 15 && 30 < 20);         //logical and
+//        System.out.println(20 > 150 || 3 > 20);         //logical or
+//        System.out.println(!(20 < 15 && 30 > 20));      //logical not
 
-            //Non access-modifiers:
-        // -------------------->  static, final, abstract, synchronized, volatile
+        //concatenate
+        String msg = "Johnny Depp";
+        System.out.println("Name:"+msg);
+        System.out.println(msg.length());
 
-        /*
-            static: creating class, variable, methods
-         */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -67,6 +129,4 @@ public class Practice1
 
 
     }
-
-
 }
