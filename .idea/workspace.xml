@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7bb54a-cb17-4936-9544-4ff1f37c6d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/datareader/MainReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywords/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/keywords/Computers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nestedclass/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nestedclass/TestNestedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trycatch/MainTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraylist/iterator/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraylist/iterator/ArrayListHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraylist/iterator/UseArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +21,7 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Gradle Kotlin DSL Settings" />
         <option value="Class" />
       </list>
     </option>
@@ -57,13 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestNestedClass (1)">
-    <configuration name="MainReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datareader.MainReader" />
+  <component name="RunManager" selected="Application.ArrayListDemo">
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist.iterator.ArrayListDemo" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datareader.*" />
+          <option name="PATTERN" value="arraylist.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trycatch.MainTry" />
+    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayPractice" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trycatch.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReaderFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="keywords.ReaderFile" />
+    <configuration name="NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.NestedForLoops" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="keywords.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNestedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nestedclass.TestNestedClass" />
+    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist.UseArrayList" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nestedclass.*" />
+          <option name="PATTERN" value="arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListDemo" />
+        <item itemvalue="Application.NestedForLoops" />
+        <item itemvalue="Application.UseArrayList" />
+        <item itemvalue="Application.ArrayPractice" />
         <item itemvalue="Application.TestNestedClass (1)" />
-        <item itemvalue="Application.TestNestedClass" />
-        <item itemvalue="Application.MainReader" />
-        <item itemvalue="Application.MainTry" />
-        <item itemvalue="Application.ReaderFile" />
       </list>
     </recent_temporary>
   </component>
