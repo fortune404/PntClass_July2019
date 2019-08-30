@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7bb54a-cb17-4936-9544-4ff1f37c6d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arraylist/iterator/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylist/iterator/ArrayListHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylist/iterator/UseArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PntClass_July2019/trycatch/MainTry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PntClass_July2019/trycatch/MainTry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trycatch/MainTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trycatch/MainTry.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListDemo">
+  <component name="RunManager" selected="Application.MainTry">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraylist.iterator.ArrayListDemo" />
       <module name="PntClass_July2019" />
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.NestedForLoops" />
+    <configuration name="MainTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trycatch.MainTry" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="trycatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNestedClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nestedclass.TestNestedClass" />
+    <configuration name="NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.NestedForLoops" />
+      <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nestedclass.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTry" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.NestedForLoops" />
         <item itemvalue="Application.UseArrayList" />
         <item itemvalue="Application.ArrayPractice" />
-        <item itemvalue="Application.TestNestedClass (1)" />
       </list>
     </recent_temporary>
   </component>
