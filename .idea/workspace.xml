@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7bb54a-cb17-4936-9544-4ff1f37c6d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stackDemo/UseStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PntClass_July2019/trycatch/MainTry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PntClass_July2019/trycatch/MainTry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PntClass_July2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PntClass_July2019.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +31,9 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
@@ -39,6 +41,7 @@
       <recent name="conditionalstatements" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/src/datareader" />
     </key>
   </component>
@@ -54,13 +57,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseStack">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.iterator.ArrayListDemo" />
+  <component name="RunManager" selected="Application.InsertMovieDemo">
+    <configuration name="InsertDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbcDemo.InsertDemo" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraylist.iterator.*" />
+          <option name="PATTERN" value="jdbcDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertMovieDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbcDemo.InsertMovieDemo" />
+      <module name="PntClass_July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbcDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.ListHashMap" />
+      <module name="PntClass_July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,32 +103,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="trycatch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.NestedForLoops" />
-      <module name="PntClass_July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist.UseArrayList" />
-      <module name="PntClass_July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertMovieDemo" />
+        <item itemvalue="Application.InsertDemo" />
+        <item itemvalue="Application.ListHashMap" />
         <item itemvalue="Application.UseStack" />
         <item itemvalue="Application.MainTry" />
-        <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.NestedForLoops" />
-        <item itemvalue="Application.UseArrayList" />
       </list>
     </recent_temporary>
   </component>
