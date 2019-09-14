@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7bb54a-cb17-4936-9544-4ff1f37c6d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/FibonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seleniumFirstClass/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PntClass_July2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PntClass_July2019.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +32,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/browser-driver" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -39,6 +41,10 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="conditionalstatements" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/browser-driver" />
+      <recent name="$PROJECT_DIR$/lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib" />
@@ -57,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FibonacciNumbers">
+  <component name="RunManager" selected="Application.HomePage">
     <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problemSolving.FibonacciNumbers" />
       <module name="PntClass_July2019" />
@@ -71,25 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbcDemo.InsertDemo" />
+    <configuration name="HomePage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumFirstClass.HomePage" />
       <module name="PntClass_July2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jdbcDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertMovieDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbcDemo.InsertMovieDemo" />
-      <module name="PntClass_July2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdbcDemo.*" />
+          <option name="PATTERN" value="seleniumFirstClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +96,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.ListHashMap" />
+      <module name="PntClass_July2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomePage" />
+        <item itemvalue="Application.ListHashMap" />
         <item itemvalue="Application.FibonacciNumbers" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.TestNestedClass" />
-        <item itemvalue="Application.InsertMovieDemo" />
-        <item itemvalue="Application.InsertDemo" />
       </list>
     </recent_temporary>
   </component>
