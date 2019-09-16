@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7bb54a-cb17-4936-9544-4ff1f37c6d78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/seleniumFirstClass/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PntClass_July2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PntClass_July2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PntClass_July2019/seleniumFirstClass/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PntClass_July2019/seleniumFirstClass/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seleniumFirstClass/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seleniumFirstClass/HomePage.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
